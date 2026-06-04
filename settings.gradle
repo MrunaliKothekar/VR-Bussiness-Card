@@ -1,0 +1,2 @@
+rootProject.name='CleanARBusinessCard'
+include ':app'

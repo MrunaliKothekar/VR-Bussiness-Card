@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958672182300",
+    "project_id": "ar-business-card-69559",
+    "storage_bucket": "ar-business-card-69559.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958672182300:android:0eb6ccee9de951230a13d9",
+        "android_client_info": {
+          "package_name": "com.example.arcard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzm1uSXF9KMPzmiwyxEEDLmyfvSfiENQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

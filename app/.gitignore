@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Log files
+*.log
+hs_err_pid*
+
+# Generated APKs
+*.apk
+*.aab
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Kotlin
+*.kotlin_module
+
+# Navigation editor temp files
+.navigation/
+
+# Captures
+captures/
+
+# External native build
+.externalNativeBuild/
+
+# Google Services (optional)
+# Uncomment below if you DON'T want Firebase config public
+# app/google-services.json
